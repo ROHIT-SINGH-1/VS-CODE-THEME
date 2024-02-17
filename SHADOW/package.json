@@ -1,0 +1,25 @@
+{
+  "name": "EBONX",
+  "displayName": "EBONX",
+  "description": "A EBONX DARK THEME",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": ["Themes"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ROHIT-SINGH-1"
+  },
+  "publisher": "ROHIT-SINGH",
+  "icon": "image/icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "EBONX",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ROHIT-color-theme.json"
+      }
+    ]
+  }
+}
